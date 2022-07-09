@@ -63,7 +63,8 @@
                     android:id="@+id/fruitContentText"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_margin="10dp" />
+                    android:layout_margin="10dp"
+                    android:hint="Write something about your picture!"/>
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -76,7 +77,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:src="@drawable/ic_comment"
+        android:src="@drawable/ic_done"
         app:layout_anchor="@id/appBar"
         app:layout_anchorGravity="bottom|end" />
 

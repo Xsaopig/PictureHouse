@@ -178,10 +178,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun initFruits() {
         fruitList.clear()
-        repeat(50) {
-            val index = (0 until fruits.size).random()
+        for (index in (0 until fruits.size))
             fruitList.add(fruits[index])
-        }
+        fruitList.shuffle()
+//        repeat(50) {
+//            val index = (0 until fruits.size).random()
+//            fruitList.add(fruits[index])
+//        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

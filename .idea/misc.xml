@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Xsaopig/AndroidStudioProjects/Picture House/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2625" />
+        <entry key="..\:/Users/Xsaopig/AndroidStudioProjects/Picture House/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2625" />
         <entry key="..\:/Users/Xsaopig/AndroidStudioProjects/Picture House/app/src/main/res/layout/activity_fruit.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/Xsaopig/AndroidStudioProjects/Picture House/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Xsaopig/AndroidStudioProjects/Picture House/app/src/main/res/layout/fruit_item.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>
